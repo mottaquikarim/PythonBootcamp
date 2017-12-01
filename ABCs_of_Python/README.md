@@ -2,7 +2,10 @@
 
 We will begin by exploring some of the basics of the python programming language. For example, how can we keep track of data in python? How does decision making work? Can we automate functionality so that we don't have to repeat ourselves? These are just some of the questions we'll tackle in this unit.
 
+## Rules of Engagement
 For all exercises, partner with someone next to you. Coding is **collaborating**. Talk through each problem and attempt to arrive at the solution **together**. Remember, it's ok to break stuff and get things wrong, that's the **only** way to learn!
+
+
 ## THEME: Death and Taxes
 
 🎉🎈🎂🍾🎊🍻💃
