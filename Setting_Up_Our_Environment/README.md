@@ -47,7 +47,7 @@ Finally, run your code and ensure that you see the `Hello, Wrold` output as expe
 ![verify](https://github.com/mottaquikarim/PythonBootcamp/blob/master/assets/PyCharm_Verify_Output.png?raw=true)
 
 
-## Parking Lot
+## 🚗 Parking Lot
 
 Just some interesting/useful links I found while prepping for this class...
 
