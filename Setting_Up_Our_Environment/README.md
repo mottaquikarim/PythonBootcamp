@@ -45,3 +45,10 @@ Finally, run your code and ensure that you see the `Hello, Wrold` output as expe
 ![run_code](https://github.com/mottaquikarim/PythonBootcamp/blob/master/assets/PyCharm_Run_File.png)
 
 ![verify](https://github.com/mottaquikarim/PythonBootcamp/blob/master/assets/PyCharm_Verify_Output.png?raw=true)
+
+
+## Parking Lot
+
+Just some interesting/useful links I found while prepping for this class...
+
+1. [Adding Packages to PyCharm Project](https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html)
