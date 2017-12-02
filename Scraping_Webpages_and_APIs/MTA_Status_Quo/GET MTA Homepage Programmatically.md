@@ -2,7 +2,7 @@
 
 We begin by exploring how we can fetch an HTML page programmatically like python. This functionality is similar to what your browser does everytime you navigate to a webpage from the URL bar.
 
-## Python Libraries
+## BACKGROUND: Python Libraries
 
 Most programming languages have some sort of central area for shared libraries. A **library** is a collection of functions that are reusable for a wide variety of usecases. For example, writing the code necessary for making a programmatic call to a website is long winded and repetitious (ie: no matter which website you want to call, most of the code to *make* the call will be the same).
 
