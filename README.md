@@ -15,7 +15,7 @@ Here's the general game plan for the day.
 Before we get into writing our code, we will have to install a few programs and tools. It may take about a half hr to pull off but ultimately a properly established development environment will pay off in spades as we navigate the rest of our day.
 ### [2. ABCs of Python](ABCs_of_Python) ✅
 We will begin by exploring some of the basics of the python programming language. For example, how can we keep track of data in python? How does decision making work? Can we automate functionality so that we don't have to repeat ourselves? These are just some of the questions we'll tackle in this unit.
-### [3. Scraping Webpages and APIs](Scraping_Webpages_and_APIs)
+### [3. Scraping Webpages and APIs](Scraping_Webpages_and_APIs) ✅
 Here we will apply what we have learned about the basics of python to do more useful things in terms of data accumulation. Specifically, we will look into how we can harvest data that might be useful for processing from online sources: webpages and publicly available APIs.
 ### [4. Data Analysis](Data_Analysis)
 And finally, now that we have regular, easily grokkable information - how can we do useful things with it? What tools do we have at our disposal to easily make sense of the data we have accumulated?
