@@ -23,7 +23,7 @@ And finally, now that we have regular, easily grokkable information - how can we
 ## After Class Notes
 
 1. [lecture livestream](https://www.youtube.com/watch?v=8tB89jk7av0)
-2. [code_12_2_2017](code/code_12_2_2017/README.md)
+2. [code_12_2_2017](code/code_12_2_2017)
 
 Thank you! 🎉🎈🎂🍾🎊🍻💃
 
