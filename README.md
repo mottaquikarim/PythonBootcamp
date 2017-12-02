@@ -11,9 +11,9 @@ The purpose of this workshop is to introduce some fundamental concepts of softwa
 ## Table of Contents
 Here's the general game plan for the day.
 
-### [0. Setting Up Our Environment](Setting_Up_Our_Environment)
+### [0. Setting Up Our Environment](Setting_Up_Our_Environment) ✅
 Before we get into writing our code, we will have to install a few programs and tools. It may take about a half hr to pull off but ultimately a properly established development environment will pay off in spades as we navigate the rest of our day.
-### [1. ABCs of Python](ABCs_of_Python)
+### [1. ABCs of Python](ABCs_of_Python) ✅
 We will begin by exploring some of the basics of the python programming language. For example, how can we keep track of data in python? How does decision making work? Can we automate functionality so that we don't have to repeat ourselves? These are just some of the questions we'll tackle in this unit.
 ### [2. Scraping Webpages and APIs](Scraping_Webpages_and_APIs)
 Here we will apply what we have learned about the basics of python to do more useful things in terms of data accumulation. Specifically, we will look into how we can harvest data that might be useful for processing from online sources: webpages and publicly available APIs.
