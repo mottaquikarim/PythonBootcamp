@@ -24,6 +24,14 @@ We are a new startup! Cool! Our product has to do with tax calculation and other
 
 ### [6. Shopping List Calculator with Quantity, as list but by name only](Shopping%20List%20Calculator%20with%20Quantity%2C%20as%20list%20but%20by%20name%20only.md)
 
+### [7. Meets Budget](Meets%20Budget.md)
+
+### [8. Compare Markets](Compare%20Markets.md)
+
+### [9. With Coupons](With%20Coupons.md)
+
+### [10. Interactivity](Interactivity.md)
+
 ## 🚗 Parking Lot
 
 Interesting/useful links!
