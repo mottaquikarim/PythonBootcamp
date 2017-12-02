@@ -43,7 +43,13 @@ Did you know Cards Against Humanity is technically open source? Scrape [this git
 
 🏪 🛒 🛍️
 
-Write a script that will watch a product on amazon, record the price and send alert if price decreases.
+Write a script that will watch a product on amazon, record the price and send alert if price decreases. To properly do this, look into using SQLite or `TinyDB` (python module) to store the previous price of the product. To make this really interesting, allow users to track price fluctuations of multiple products and also store average trends (ie: trend lines and other pretty graphs that show price changes)
+
+### NYTimes Front Page Tracker
+
+📰 🗞️ 📰
+
+Query NYTimes Front Page on a daily basis and search all articles for references to a company or person of interest. If more than a certain threshold found, send alert. This one is interesting because it involves loading one page - finding all the anchors on that page - and then loading **all** of those anchors as well. Loops on loops on loops, yo.
 
 
 ## 🚗 Parking Lot
