@@ -63,3 +63,7 @@ Returns:
 amt = get_shopping_list_price_from_list([('steak', 2), ('tomatoes', 1) ('redbull', 5), ('lentils', 4), ('orange juice', 1)])
 print(amt) # 69.68
 ```
+
+**Challenge**
+
+What happens if you try to access an item that doesn't exist in the supermarket? What might be some strategies you can use to hedge against that?
