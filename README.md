@@ -20,6 +20,13 @@ Here we will apply what we have learned about the basics of python to do more us
 ### [4. Data Analysis](Data_Analysis)
 And finally, now that we have regular, easily grokkable information - how can we do useful things with it? What tools do we have at our disposal to easily make sense of the data we have accumulated?
 
+## After Class Notes
+
+1. [lecture livestream](https://www.youtube.com/watch?v=8tB89jk7av0)
+2. [code_12_2_2017](code/code_12_2_2017/README.md)
+
+Thank you! 🎉🎈🎂🍾🎊🍻💃
+
 ## About Me
 
 <img src="https://github.com/mottaquikarim/PythonBootcamp/blob/master/assets/taq.jpg?raw=true" style="width: 100px; height: auto;" width="100" align="left"> 
