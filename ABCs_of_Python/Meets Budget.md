@@ -10,6 +10,19 @@ Ok, now that we have an easy to use, full functional shopping list calculator, l
 * If the budget is exactly right, return an empty list
 * If budget is higher than needed, return list with one time: the difference between budget and total_due
 
+To solve this problem, you will have to leverage **conditional statements** which are how we teach a program to **make decisions**. Here are some resources on conditional statements: [resource](http://www.openbookproject.net/books/bpp4awd/ch04.html), [resource](https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/ifstatements.html).
+
+Also an example:
+```python
+k = 8
+if k < 9:
+ print('It is!')
+else:
+ print('It is not!')
+ 
+# etc
+```
+
 **Requirements**
 ```
 Function name: get_shopping_list_price_from_list
