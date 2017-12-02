@@ -1,44 +1,73 @@
 # Compare Markets
 
-Now, let's hook up our function to also compare markets. Essentially, now we will define **two** dicts which reflect inventory and 
+Now, let's hook up our function to also compare markets. Essentially, now we will define **two** dicts which reflect inventory and pricing for two competing supermarkets.
 
-Ok, now that we have an easy to use, full functional shopping list calculator, let's make it **even more** useful!
+For example:
 
-* Create a function that takes in two arguments:
-  * a list of tuples that represent shopping items and quantity
-  * a max budget (number)
-* If the budget is too low, return a list of items that **can** be purchased with the available funds. Remember, we want to maximize the number of items that are purchasable - how can that be achieved? 
-  * (**Hint**: Google sorting lists of tuples)
-* If the budget is exactly right, return an empty list
-* If budget is higher than needed, return list with one time: the difference between budget and total_due
+```python
+bobs_supermarket = {
+ 'item A': 2,
+ 'item B': 3,
+}
+
+janes_supermarket = {
+ 'item A': 3,
+ 'item B': 1
+}
+```
+
+Our function will take our list of tuples, but also **two** dictionaries representing our two competitors. It will create **two** sums and return a dictionary that looks like the following:
+
+```python
+{
+ 'winner': 'competitor1',
+ 'savings': 1
+}
+```
+
+Where **winner** refers to which competitor was cheaper and **savings** refers to how much money was saved.
 
 **Requirements**
 ```
 Function name: get_shopping_list_price_from_list
 Arguments:
   prices: (list)
-  max_budget: number
+  c1: (dict) # first competitor
+  c2: (dict) # second competitor
 Returns:
-  list
+  dict
 ```
 
 **Sample Output**
 ```
-[]
+{
+ 'winner': 'competitor1',
+ 'savings': 1
+}
 ```
 
 **Example Invocation**
 ```python
-# budget too low
-amt = get_shopping_list_price_from_list([('steak', 2), ('tomatoes', 1) ('redbull', 5), ('lentils', 4), ('orange juice', 1)], 2)
-print(amt) # [('lentils', 4)]
+bobs_supermarket = {
+ 'item A': 2,
+ 'item B': 3,
+}
 
-# budget exactly right
-amt = get_shopping_list_price_from_list([('steak', 2), ('tomatoes', 1) ('redbull', 5), ('lentils', 4), ('orange juice', 1)], 69.68)
-print(amt) # []
-
-# budget too hight
-amt = get_shopping_list_price_from_list([('steak', 2), ('tomatoes', 1) ('redbull', 5), ('lentils', 4), ('orange juice', 1)], 70)
-print(amt) # [0.32]
-
+janes_supermarket = {
+ 'item A': 3,
+ 'item B': 1
+}
+amt = get_shopping_list_price_from_list([
+ ('steak', 2),
+ ('tomatoes', 1),
+ ('redbull', 5), 
+ ('lentils', 4), 
+ ('orange juice', 1)
+], bobs_supermarket, janes_supermarket)
+print(amt) # {'winner': 'competitor1','savings': 1}
 ```
+
+## Challenges
+
+1. Update your function so that it takes a list of competitors (ie: N competitors) and not just two
+2. Add the budget field back and return a dictionary that chooses the competitor that saves you the most. If budget is too low for all competitors, return the competitor that allows you to get the most bang for your buck (ie: buy the most items)
