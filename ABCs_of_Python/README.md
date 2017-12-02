@@ -12,25 +12,25 @@ For all exercises, partner with someone next to you. Coding is **collaborating**
 
 We are a new startup! Cool! Our product has to do with tax calculation and other related financial services. In this unit, we will grow as a team, ramping up our python skills as we build our final product.
 
-### [1. Simple Shopping List Calculator](Simple%20Shopping%20List%20Calculator.md)
+### [1. Simple Shopping List](Simple%20Shopping%20List%20Calculator.md)
 
-### [2. (More Useful) Shopping List Calculator]((More%20Useful)%20Shopping%20List%20Calculator.md)
+### [2. Shopping List w. Quantity]((More%20Useful)%20Shopping%20List%20Calculator.md)
 
-### [3. Reusable Shopping List Calculator](Reusable%20Shopping%20List%20Calculator.md)
+### [3. Shopping List As Function](Reusable%20Shopping%20List%20Calculator.md)
 
-### [4. Open-ended Shopping List Calculator](Open-ended%20Shopping%20List%20Calculator.md)
+### [4. Shopping List w. List](Open-ended%20Shopping%20List%20Calculator.md)
 
-### [5. Open-ended Shopping List Calculator with Quantity](Open-ended%20Shopping%20List%20Calculator%20with%20Quantity.md)
+### [5. Shopping List w. List and Quantity](Open-ended%20Shopping%20List%20Calculator%20with%20Quantity.md)
 
-### [6. Shopping List Calculator with Quantity, as list but by name only](Shopping%20List%20Calculator%20with%20Quantity%2C%20as%20list%20but%20by%20name%20only.md)
+### [6. Shopping List w. Quantity, as List but by Name](Shopping%20List%20Calculator%20with%20Quantity%2C%20as%20list%20but%20by%20name%20only.md)
 
-### [7. Meets Budget](Meets%20Budget.md)
+### [7. Shopping List Meets Budget](Meets%20Budget.md)
 
-### [8. Compare Markets](Compare%20Markets.md)
+### [8. Shopping List Compare Markets](Compare%20Markets.md)
 
-### [9. With Coupons](With%20Coupons.md)
+### [9. Shopping List With Coupons](With%20Coupons.md)
 
-### [10. Interactivity](Interactivity.md)
+### [10. Shopping List With Interactivity](Interactivity.md)
 
 ## 🚗 Parking Lot
 
