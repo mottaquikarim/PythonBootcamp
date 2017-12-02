@@ -60,7 +60,8 @@ print(steak * steakq)
 ```
 
 More complete example:
-```
+
+```python
 def format_as_price(price):
     formatted = "%.2f" % price
     return formatted
