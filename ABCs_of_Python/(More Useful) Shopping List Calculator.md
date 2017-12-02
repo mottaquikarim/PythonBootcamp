@@ -36,3 +36,25 @@ Ok, 1 bottles of orange juice.
 sum: $64.00
 total_due: $69.68
 ```
+
+## Code Sample
+```python
+
+def format_as_price(price):
+    formatted = "%.2f" % price
+    return formatted
+
+steak = 4
+tomatoes = 0.75
+redbull = 10
+lentils = 0.45
+orange_juice = 3.45
+
+formatted_steak = format_as_price(steak)
+print('steak: ${}/lb'.format(formatted_steak))
+quantity = input('how many lbs? -->')
+steakq = int(quantity)
+print('Ok {}lbs of steak'.format(steakq))
+print(steak * steakq)
+
+```
