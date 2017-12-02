@@ -6,7 +6,7 @@ We will begin by exploring some of the basics of the python programming language
 For all exercises, partner with someone next to you. Coding is **collaborating**. Talk through each problem and attempt to arrive at the solution **together**. Remember, it's ok to break stuff and get things wrong, that's the **only** way to learn!
 
 
-## THEME: Death and Taxes
+## THEME: Shopping and Taxes
 
 🎉🎈🎂🍾🎊🍻💃
 
