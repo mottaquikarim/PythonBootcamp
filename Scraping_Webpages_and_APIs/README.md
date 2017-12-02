@@ -26,6 +26,26 @@ Or, which lines are fucked today?
 #### [5. Filter Status by Line](MTA_Status_Quo/Filter%20Status%20by%20Line.md)
 #### [6. Configure IFTTT to Send Alert](MTA_Status_Quo/Configure%20IFTTT%20to%20Send%20Alert.md)
 
+### How To Dress?
+
+👗 👘 💃
+
+Using the **[OpenWeatherMap API](https://openweathermap.org/api)**, check weather conditions in your area every morning and suggest articles of clothing / accessories that may be relevant. IE: if there is rain scheduled in the evening, suggest bringing an umbrella. Etc.
+
+
+### Cards Against Humanity
+
+🗂️ 🃏 ♥️ ♠️ ♦️ 🗂️
+
+Did you know Cards Against Humanity is technically open source? Scrape [this github repo](https://github.com/nodanaonlyzuul/against-humanity) to grab all question and answer cards. Write a chatbot using the [Twilio API](https://www.twilio.com/) that will serve the user a random question card and a few randomly chosen answer cards. The user can text the bot back answer choices which the bot will then use to assemble the final string and send back.
+
+### Watch Price on Amazon 
+
+🏪 🛒 🛍️
+
+Write a script that will watch a product on amazon, record the price and send alert if price decreases.
+
+
 ## 🚗 Parking Lot
 
 Just some interesting/useful links I found while prepping for this class...
