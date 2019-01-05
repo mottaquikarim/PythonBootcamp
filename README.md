@@ -1,12 +1,31 @@
 
 ![pycon](https://github.com/mottaquikarim/PythonBootcamp/blob/master/assets/pycon.png?raw=true)
 
-# PYTHON: THE BASICS
+# Python Bootcamp
+*🎉🎈🎂🍾🎊🍻💃*
 
 *A hands on and practical introduction
  to programming and python development.*
 
 The purpose of this workshop is to introduce some fundamental concepts of software development. We will be using the python programming language, which provides a readable, powerful syntax that is used by data scientists, web developers, even NASA engineers! In particular, our aspiration in this workshop is to work up to a point where we can confidently and feasibly level up our python knowledge without external support from anyone. 
+
+## Learning Objectives
+
+Here is a list of concepts we **definitely** expect to cover today.
+
+* Basic data types of Python
+* Basic data structures of Python
+* Boolean relationships in Python
+* Using loops and functions in Python to do repeatable tasks
+
+Here is a list of concepts we **hope** to introduce today.
+
+* Web Scraping with Python
+* Intro to Data Science with Python
+
+We will not be covering the following concept in this lecture.
+
+* How run Python scripts in the Jupyter Notebook ecosystem
 
 ## Table of Contents
 Here's the general game plan for the day.
