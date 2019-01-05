@@ -13,36 +13,44 @@ The purpose of this workshop is to introduce some fundamental concepts of softwa
 
 Here is a list of concepts we **definitely** expect to cover today.
 
-* Basic data types of Python
-* Basic data structures of Python
-* Boolean relationships in Python
-* Using loops and functions in Python to do repeatable tasks
+* **Basic data types of Python**
+* **Basic data structures of Python**
+* **Boolean relationships in Python**
+* **Using loops and functions in Python to do repeatable tasks**
 
 Here is a list of concepts we **hope** to introduce today.
 
-* Web Scraping with Python
-* Intro to Data Science with Python
+* **Web Scraping with Python**
+* **Intro to Data Science with Python**
 
 We will not be covering the following concept in this lecture.
 
-* How run Python scripts in the Jupyter Notebook ecosystem
+* **How run Python scripts in the Jupyter Notebook ecosystem**
 
 ## Table of Contents
 Here's the general game plan for the day.
 
-### [1. Setting Up Our Environment](Setting_Up_Our_Environment) ✅
+### [1. Setting Up Our Environment](Setting_Up_Our_Environment)
 Before we get into writing our code, we will have to install a few programs and tools. It may take about a half hr to pull off but ultimately a properly established development environment will pay off in spades as we navigate the rest of our day.
-### [2. ABCs of Python](ABCs_of_Python) ✅
-We will begin by exploring some of the basics of the python programming language. For example, how can we keep track of data in python? How does decision making work? Can we automate functionality so that we don't have to repeat ourselves? These are just some of the questions we'll tackle in this unit.
-### [3. Scraping Webpages and APIs](Scraping_Webpages_and_APIs) ✅
+
+### [2. Basic Data Types](Basic_Data_Types)
+We will begin by exploring some of the basics of the python programming language. For example, how can we keep track of data in python?
+
+### [3. Functions](Functions)
+In this section we will consider a core concept in programming: functions. Some questions we will answer: How does decision making work? Can we automate functionality so that we don't have to repeat ourselves? 
+
+### [4. Lists and Dicts](Lists_and_Dicts)
+Complex data and situations in real life can be modeled in python using data structures that are a bit more complex than the basic data types we previously covered. Here, we will discuss looping and modeling real world data in a "pythonic" manner.
+
+### [5. Modules](Modules)
+What makes python super useful is the existence of an ecosystem of code written by others and distributed for us to use - for free! We will explore how these items can be used to enhance our code.
+
+### [6. Scraping Webpages and APIs](Scraping_Webpages_and_APIs) ✅
 Here we will apply what we have learned about the basics of python to do more useful things in terms of data accumulation. Specifically, we will look into how we can harvest data that might be useful for processing from online sources: webpages and publicly available APIs.
-### [4. Data Analysis](Data_Analysis)
+
+### [7. Data Analysis](Data_Analysis)
 And finally, now that we have regular, easily grokkable information - how can we do useful things with it? What tools do we have at our disposal to easily make sense of the data we have accumulated?
 
-## After Class Notes
-
-1. [lecture livestream](https://www.youtube.com/watch?v=8tB89jk7av0)
-2. [code_12_2_2017](code/code_12_2_2017)
 
 Thank you! 🎉🎈🎂🍾🎊🍻💃
 
