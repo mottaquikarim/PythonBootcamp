@@ -45,10 +45,10 @@ Complex data and situations in real life can be modeled in python using data str
 ### [5. Modules](Modules)
 What makes python super useful is the existence of an ecosystem of code written by others and distributed for us to use - for free! We will explore how these items can be used to enhance our code.
 
-### [6. Scraping Webpages and APIs](Scraping_Webpages_and_APIs) ✅
+### [6. Scraping Webpages and APIs](v1/Scraping_Webpages_and_APIs)
 Here we will apply what we have learned about the basics of python to do more useful things in terms of data accumulation. Specifically, we will look into how we can harvest data that might be useful for processing from online sources: webpages and publicly available APIs.
 
-### [7. Data Analysis](Data_Analysis)
+### [7. Data Analysis](v1/Data_Analysis)
 And finally, now that we have regular, easily grokkable information - how can we do useful things with it? What tools do we have at our disposal to easily make sense of the data we have accumulated?
 
 
