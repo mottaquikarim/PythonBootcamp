@@ -19,4 +19,7 @@ Normally, this is an expensive and skills-intensive process. But! The Future is 
 
 Pls go to **[Python Anywhere](https://www.pythonanywhere.com/)** and create a free account. If you find the service useful, feel free to upgrade later. For now, just create the account and verify that you can log in. We will have instructions for transferring some of our projects to the internets later on in the day.
 
+## 🚗 Parking Lot
+
+If you are interested, you may choose to download and run python locally. There are several ways to do this, an easy way is to follow the steps delineated **[here](Anaconda.md)**.
 
