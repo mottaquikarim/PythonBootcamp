@@ -52,7 +52,11 @@ Here we will apply what we have learned about the basics of python to do more us
 And finally, now that we have regular, easily grokkable information - how can we do useful things with it? What tools do we have at our disposal to easily make sense of the data we have accumulated?
 
 
-Thank you! 🎉🎈🎂🍾🎊🍻💃
+Thank you! 
+
+🎉🎈🎂🍾🎊🍻💃
+
+## [Class Notes](https://repl.it/@mottaquikarim/CapitalTrustworthyAdministration)
 
 ## About Me
 
