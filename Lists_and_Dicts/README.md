@@ -243,3 +243,23 @@ Let's improve our calculator! Remember **[this](https://github.com/mottaquikarim
 > Total total is: 28.28
 
 ```
+
+## 🚗 Practice: Find Mean
+Write a function, `get_mean` that takes one argument - a list of numbers - and returns a number representing the mean of that list.
+## 🚗 Practice: Find Mode
+Write a function, `get_mode` that takes one argument - a list of numbers - and returns a number representing the mode of that list.
+## 🚗 Practice: Find Max
+Write a function, `get_max` that takes one argument - a list of numbers - and returns a number representing the max number of that list.
+## 🚗 Practice: Find Min
+Write a function, `get_min` that takes one argument - a list of numbers - and returns a number representing the min of that list.
+## 🚗 Practice: Find Range
+Write a function, `get_range` that takes one argument - a list of numbers - and returns a number representing the range of numbers in that list.
+## 🚗 Practice: Find Standard Deviation
+Write a function, `get_stdv` that takes one argument - a list of numbers - and returns a number representing the standard deviation of that list.
+## 🚗 Practice: Find Variance
+Write a function, `get_var` that takes one argument - a list of numbers - and returns a number representing the variance of that list.
+## 🚗 Practice: Statistics Calculator
+Write a small python program that asks user input for a list of numbers and computes basic statistic analysis on those numbers using the functions provided above. 
+
+- if you'd like, you can have your program take a CSV url as input and use that CSV as the data source
+
