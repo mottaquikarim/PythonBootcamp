@@ -73,3 +73,12 @@ Using the dataframe only, answer the following questions:
 1. Let's calculate the BMI of all our players. Using the DataFrame, create a new **Series** (panda concept, look it up!) that stores player BMIs. Concat this Series back to original dataframe
 2. Let's define BMI > 24 to be overweight. How many players in our dataset are overweight...?
 3. Look for and track age distribution for players (ie: how many are 25? 26? etc)
+
+
+### 5 Additional Practice!
+
+* [Pandas exercises](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+* [Pandas puzzles](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb) / [Pandas solutions](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles-with-solutions.ipynb)
+* [Loan Prediction Problem](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
+* [Kaggle: free datasets for analysis](https://www.kaggle.com/)
+* [24 other data exercises w/python](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
