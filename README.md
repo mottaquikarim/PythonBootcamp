@@ -57,6 +57,7 @@ Thank you!
 🎉🎈🎂🍾🎊🍻💃
 
 ## [Class Notes](https://repl.it/@mottaquikarim/CapitalTrustworthyAdministration)
+## [Class Notes - 03092019](https://repl.it/@mottaquikarim/ExoticClientsideCache)
 
 ## About Me
 
